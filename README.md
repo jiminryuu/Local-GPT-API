@@ -42,7 +42,7 @@ These models are ideal for open-ended tasks, like conversations, storytelling, a
 
 
 
-Make the script executable:
+Make the script executable for load testing:
 
 chmod +x send_requests.sh
 
